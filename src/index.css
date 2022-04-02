@@ -11,3 +11,11 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+.tab tr{
+height: 50px;
+max-width: 30px;
+margin: 20px;
+}
+.token{
+  font-size: 10px;
+}
